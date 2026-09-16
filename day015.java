@@ -11,8 +11,8 @@ public class day015 {
         System.out.println("Hasil perkalian : Rp." + hasil);
 
         final double akhir = (hasil / nilai3);
-        System.out.println("94000 / 30");
-        System.out.println("Hasil pengurangan : Rp." + akhir);
+        System.out.println("94000 : 5");
+        System.out.println("Hasil pembagian : Rp." + akhir);
     }
 
 }
