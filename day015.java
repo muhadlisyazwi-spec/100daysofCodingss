@@ -7,7 +7,7 @@ public class day015 {
         double nilai2 = 376;
         int nilai3 = 5;
         double hasil = (nilai1 * nilai2);
-        System.out.println("25000 X 376");
+        System.out.println("2500 X 376");
         System.out.println("Hasil perkalian : Rp." + hasil);
 
         final double akhir = (hasil / nilai3);
