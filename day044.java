@@ -4,8 +4,6 @@ import java.util.Scanner;
 public class day044 {
     public static void main(String[] args) {
         Scanner y = new Scanner(System.in);
-        boolean status = false;
-        String statusNama = status? "Lulus":"Tidak lulus";
         System.out.print("Masukkan nama: ");
         String nama = y.nextLine();
         System.out.print("Masukkan nilai: ");
