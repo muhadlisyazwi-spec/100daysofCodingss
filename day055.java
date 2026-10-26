@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class tugazz {
+public class day055 {
     public static void main(String[] args) {
         Scanner y = new Scanner(System.in);
         System.out.print("Batasan (a): ");
