@@ -6,9 +6,9 @@ public class day063 {
         int a = y.nextInt();
         int pangkats = y.nextInt();
         int hasil=1;
-        for (int i = 0; i <= a; i++) {
-            hasil = pangkats * hasil;
-            System.out.println(hasil);
+        for (int i = 1; i <= a; i++) {
+            hasil *= pangkats;
         }
+        System.out.println(hasil);
     }
 }
