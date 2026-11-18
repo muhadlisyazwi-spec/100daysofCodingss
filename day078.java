@@ -4,12 +4,12 @@ public class day078 {
     public static void main(String[] args) {
         Scanner y = new Scanner(System.in);
         Boolean status = false;
-        String nama = "Adli_ganteng";
-        String NIM = "0";
+        String nama = "Putri Aulia";
+        String NIM = "4";
         while(!status){
-            System.out.print("Masukkan nama: ");
+            System.out.print("Masukkan username: ");
             String name = y.nextLine();
-            System.out.print("Masukkan NIM: ");
+            System.out.print("Masukkan password: ");
             String nim = y.nextLine();
             if (name.equals("admin")&& nim.equals("admin")){
                 System.out.println("anda login sebagai admin");
