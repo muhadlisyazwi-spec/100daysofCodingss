@@ -19,7 +19,7 @@ public class day078 {
                 System.out.println();
                 status=true;
             }else{ System.out.println("Akun anda tidak ditemukan");
-            status=true;
+            
         }
         }
     }
